@@ -56,5 +56,5 @@ venv\Scripts\activate     # Windows
 
 pip install requests beautifulsoup4
 
-python nome_do_script.py
+python app.py
 
